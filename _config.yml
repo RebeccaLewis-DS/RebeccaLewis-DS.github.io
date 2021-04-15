@@ -96,9 +96,10 @@ analytics:
 author:
   name             : "Rebecca V. Lewis"
   avatar           : "/assets/images/selfphoto.jpg"
-  bio              : "Data Nerd  Professional Overanalyzer  Data Solutions Architect"
+  bio              : "Data Nerd\
+                      Professional Overanalyzer"
   location         : "Covington, LA"
-  email            : "revlewis79@gmail.com"
+  employer         : "North Oaks Health System"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
