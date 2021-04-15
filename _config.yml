@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Rebecca V. Lewis"
-  avatar           : "selfphoto.jpg"
+  avatar           : "/assets/images/selfphoto.jpg"
   bio              : "Data Nerd and Professional Overanalyzer"
   location         : "Covington, LA"
   email            : "revlewis79@gmail.com"
