@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /md/
   - /featuredprojects.html
+layout: home
+header:
+  image: "/assets/images/peacock-feather-skinny_2.jpg"
 ---
 
 | Title | Objective | Skill |
