@@ -6,6 +6,7 @@ redirect_from:
   - /md/
   - /featuredprojects.html
 layout: single
+classes: wide
 header:
   image: "/assets/images/peacock-feather-skinny_2.jpg"
 ---
