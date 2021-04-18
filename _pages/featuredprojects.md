@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /md/
   - /featuredprojects.html
-layout: home
+layout: single
 header:
   image: "/assets/images/peacock-feather-skinny_2.jpg"
 ---
