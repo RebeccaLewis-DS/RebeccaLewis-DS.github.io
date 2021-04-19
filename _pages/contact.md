@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "Contact"
+permalink: /contact/
+title: "Contact Me"
 author_profile: true
 redirect_from: 
   - /md/
