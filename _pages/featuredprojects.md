@@ -28,5 +28,5 @@ header:
 | <img src="/assets/images/DSC510_thumbnail.PNG" width="300"> | [Interactive Weather Forecasting Python Program](https://github.com/RebeccaLewis-DS/dsc510-finalproject.git)  <br/> Python Object-oriented, API requests	|
 | <img src="/assets/images/DSC520_thumbnail.PNG" width="300"> | [Statistical Analysis of Animal Shelter Data using R](https://github.com/RebeccaLewis-DS/dsc520-finalproject.git)  <br/> Statistical analysis with R	|
 | <img src="/assets/images/DSC530_thumbnail.png" width="300"> | [The Impact of Leader Compensation and Administrative Overhead on Fundraising Efficiency](https://github.com/RebeccaLewis-DS/dsc530-finalproject.git)  <br/> Exploratory Data Analysis	|
-| <img src="/assets/images/DSC540_thumbnail.jpg" width="300"> | [Using Python Scrape the Web and Extract a Dataset](https://github.com/RebeccaLewis-DS/dsc540-termproject.git) <br/> Web scraping	|		
+| <img src="/assets/images/DSC540_2_thumbnail.jpg" width="300"> | [Using Python Scrape the Web and Extract a Dataset](https://github.com/RebeccaLewis-DS/dsc540-termproject.git) <br/> Web scraping	|		
 | <img src="/assets/images/DSC640_thumbnail.PNG" width="300">  | [Data Storytelling - Making the Case for Animal Shelter Support](https://github.com/RebeccaLewis-DS/dsc640-finalproject.git)  <br/> Data Storytelling, Tableau, Infographic creation	|	
