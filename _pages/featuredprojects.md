@@ -22,8 +22,8 @@ header:
 
 ### Individual Skills
 
-| | Title | Skills Showcased |
-|-|-------|-------|
+| | Title |
+|-|-------|
 | <img src="/assets/images/DSC500_thumbnail.png" width="300"> | [The Impact of Data Science on Animal Shelter Outcomes](https://github.com/RebeccaLewis-DS/dsc500-finalproject.git) <br/> Research, writing, presentation abilities | 
 | | [Interactive Weather Forecasting Python Program](https://github.com/RebeccaLewis-DS/dsc510-finalproject.git)  <br/> Python Object-oriented, API requests	|
 | | [Statistical Analysis of Animal Shelter Data using R](https://github.com/RebeccaLewis-DS/dsc520-finalproject.git)  <br/> Statistical analysis with R	|
