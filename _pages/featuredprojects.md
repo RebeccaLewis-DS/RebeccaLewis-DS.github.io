@@ -11,6 +11,7 @@ header:
   image: "/assets/images/peacock-feather-skinny_2.jpg"
 ---
 ### Applied Data Science Projects
+
 |   | Title | Objective |
 | - | -------|-----------|
 | <img src="/assets/images/DSC630_thumbnail.png" width="300"> | [Predicting Timely Adoption and Optimizing Adoption Channels for Shelter Animals](https://github.com/RebeccaLewis-DS/dsc630-finalproject.git)	| Identify the potential use of predictive analytics, formulate the problem, identify the right sources of data, analyze data, and prescribe actions to improve not only the process of decision making but also the outcome of decisions. |
@@ -19,6 +20,7 @@ header:
 | | Applied Data Science Project 3	| Applying data science principles and techniques	|
 
 ### Individual Skills
+
 | Title | Objective | Skill |
 |-------|-----------|-------|
 | [The Impact of Data Science on Animal Shelter Outcomes](https://github.com/RebeccaLewis-DS/dsc500-finalproject.git) | Create a poster and extended abstract that would be presented at a data science conference exploring the state of data science in an industry.  | Research, writing, presentation abilities | 
