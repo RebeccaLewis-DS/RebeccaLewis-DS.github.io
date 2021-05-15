@@ -24,7 +24,7 @@ header:
 
 | | Title | Objective | Skill |
 |-|-------|-----------|-------|
-| <img src="/assets/images/DSC500_thumbnail.PNG" width="300"> | [The Impact of Data Science on Animal Shelter Outcomes](https://github.com/RebeccaLewis-DS/dsc500-finalproject.git) | Create a poster and extended abstract that would be presented at a data science conference exploring the state of data science in an industry.  | Research, writing, presentation abilities | 
+| <img src="/assets/images/DSC500_thumbnail.png" width="300"> | [The Impact of Data Science on Animal Shelter Outcomes](https://github.com/RebeccaLewis-DS/dsc500-finalproject.git) | Create a poster and extended abstract that would be presented at a data science conference exploring the state of data science in an industry.  | Research, writing, presentation abilities | 
 | | [Interactive Weather Forecasting Python Program](https://github.com/RebeccaLewis-DS/dsc510-finalproject.git)	| Create an application that interacts with a webservice in order to obtain data.	| Python Object-oriented, API requests	|
 | | [Statistical Analysis of Animal Shelter Data using R](https://github.com/RebeccaLewis-DS/dsc520-finalproject.git)	| Demonstrate knowledge of a statistical analysis workflow using the R programming language to address a problem with data science. Results of the analysis are presented in a markdown report.	| Statistical analysis with R	|
 | | [The Impact of Leader Compensation and Administrative Overhead on Fundraising Efficiency](https://github.com/RebeccaLewis-DS/dsc530-finalproject.git)	| Pose a question, evaluate a dataset to answer the question using exploratory data analysis techniques and provide a written and visual presentation of findings.	| Exploratory Data Analysis	|
