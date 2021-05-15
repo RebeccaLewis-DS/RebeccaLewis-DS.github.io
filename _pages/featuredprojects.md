@@ -12,14 +12,16 @@ header:
 ---
 
 ### Applied Data Science Projects
-
+| | |
+|-|-|
 | <img src="/assets/images/DSC630_thumbnail.png" width="300"> | [Predicting Timely Adoption and Optimizing Adoption Channels for Shelter Animals](https://github.com/RebeccaLewis-DS/dsc630-finalproject.git)	| 
 | <img src="/assets/images/DSC680_1_thumbnail.png" width="300"> | [Using Animal Control Incident Data to Develop Community Assistance Programs](https://github.com/RebeccaLewis-DS/dsc680-project1.git)	| 
 | <img src="/assets/images/DSC680_2_thumbnail.PNG" width="300"> | [Optimizing the Distribution of Rabies Tags for Orleans Parish](https://github.com/RebeccaLewis-DS/dsc680-project2.git)	| 
 | | Applied Data Science Project 3	| 
 
 ### Individual Skills
-
+| | |
+|-|-|
 | <img src="/assets/images/DSC640_thumbnail.PNG" width="300">  | [Data Storytelling - Making the Case for Animal Shelter Support](https://github.com/RebeccaLewis-DS/dsc640-finalproject.git)  <br/> Data Storytelling, Tableau, Infographic creation	|	
 | <img src="/assets/images/DSC500_thumbnail.png" width="300"> | [The Impact of Data Science on Animal Shelter Outcomes](https://github.com/RebeccaLewis-DS/dsc500-finalproject.git) <br/> Research, writing, presentation abilities | 
 | <img src="/assets/images/DSC510_thumbnail.jpg" width="300"> | [Interactive Weather Forecasting Python Program](https://github.com/RebeccaLewis-DS/dsc510-finalproject.git)  <br/> Python Object-oriented, API requests	|
