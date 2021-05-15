@@ -24,11 +24,19 @@ header:
 
 | | Title | Skills Showcased |
 |-|-------|-------|
-| <img src="/assets/images/DSC500_thumbnail.png" width="300"> | [The Impact of Data Science on Animal Shelter Outcomes](https://github.com/RebeccaLewis-DS/dsc500-finalproject.git) | Research, writing, presentation abilities | 
-| | [Interactive Weather Forecasting Python Program](https://github.com/RebeccaLewis-DS/dsc510-finalproject.git)	|  Python Object-oriented, API requests	|
-| | [Statistical Analysis of Animal Shelter Data using R](https://github.com/RebeccaLewis-DS/dsc520-finalproject.git)	| Statistical analysis with R	|
-| | [The Impact of Leader Compensation and Administrative Overhead on Fundraising Efficiency](https://github.com/RebeccaLewis-DS/dsc530-finalproject.git)	| Exploratory Data Analysis	|
-| | [Using Python to Clean a Dataset](https://github.com/RebeccaLewis-DS/dsc540-midtermproject.git)	| Data cleansing	|
-| | [Using Python Scrape the Web and Extract a Dataset](https://github.com/RebeccaLewis-DS/dsc540-termproject.git)	| Web scraping	|		
-| | [Analyze survey data with Data Mining and Text Analysis](https://github.com/RebeccaLewis-DS/dsc550-finalproject.git)	| Data Mining and Text Analysis	|
-| | [Data Storytelling - Making the Case for Animal Shelter Support](https://github.com/RebeccaLewis-DS/dsc640-finalproject.git) | Data Storytelling, Tableau, Infographic creation	|	
+| <img src="/assets/images/DSC500_thumbnail.png" width="300"> | [The Impact of Data Science on Animal Shelter Outcomes](https://github.com/RebeccaLewis-DS/dsc500-finalproject.git)  
+Research, writing, presentation abilities | 
+| | [Interactive Weather Forecasting Python Program](https://github.com/RebeccaLewis-DS/dsc510-finalproject.git)  
+Python Object-oriented, API requests	|
+| | [Statistical Analysis of Animal Shelter Data using R](https://github.com/RebeccaLewis-DS/dsc520-finalproject.git)  
+Statistical analysis with R	|
+| | [The Impact of Leader Compensation and Administrative Overhead on Fundraising Efficiency](https://github.com/RebeccaLewis-DS/dsc530-finalproject.git)  
+Exploratory Data Analysis	|
+| | [Using Python to Clean a Dataset](https://github.com/RebeccaLewis-DS/dsc540-midtermproject.git)  
+Data cleansing	|
+| | [Using Python Scrape the Web and Extract a Dataset](https://github.com/RebeccaLewis-DS/dsc540-termproject.git)  
+Web scraping	|		
+| | [Analyze survey data with Data Mining and Text Analysis](https://github.com/RebeccaLewis-DS/dsc550-finalproject.git)  
+Data Mining and Text Analysis	|
+| | [Data Storytelling - Making the Case for Animal Shelter Support](https://github.com/RebeccaLewis-DS/dsc640-finalproject.git)  
+Data Storytelling, Tableau, Infographic creation	|	
