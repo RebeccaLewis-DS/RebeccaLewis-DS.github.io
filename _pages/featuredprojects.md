@@ -15,10 +15,11 @@ header:
 
 | | |
 |-|-|
-| <img src="/assets/images/DSC630_thumbnail.png" width="300"> | [Predicting Timely Adoption and Optimizing Adoption Channels for Shelter Animals](https://github.com/RebeccaLewis-DS/dsc630-finalproject.git)	| 
+| <img src="/assets/images/DSC680_3_thumbnail.jpg" width="300"> | [A Data Story about a Bike that Goes Nowhere](https://github.com/RebeccaLewis-DS/dsc680-project3.git) | 
 | <img src="/assets/images/DSC680_1_thumbnail.png" width="300"> | [Using Animal Control Incident Data to Develop Community Assistance Programs](https://github.com/RebeccaLewis-DS/dsc680-project1.git)	| 
 | <img src="/assets/images/DSC680_2_thumbnail.PNG" width="300"> | [Optimizing the Distribution of Rabies Tags for Orleans Parish](https://github.com/RebeccaLewis-DS/dsc680-project2.git)	| 
-| <img src="/assets/images/DSC680_3_thumbnail.jpg" width="300"> | [A Data Story about a Bike that Goes Nowhere](https://github.com/RebeccaLewis-DS/dsc680-project3.git) | 
+| <img src="/assets/images/DSC630_thumbnail.png" width="300"> | [Predicting Timely Adoption and Optimizing Adoption Channels for Shelter Animals](https://github.com/RebeccaLewis-DS/dsc630-finalproject.git)	| 
+
 
 ### Individual Skills
 
