@@ -25,7 +25,7 @@ header:
 
 | | |
 |-|-|
-| <img src="/assets/images/DSC540_1_thumbnail.jpg" width="300">  | [Using Python to Clean Data](https://github.com/RebeccaLewis-DS/dsc540-midtermproject.git)  <br/> Data Preparation, Python, Pandas	|	
+| <img src="/assets/images/DSC540_1_thumbnail.jpg" width="300">  | [Using Python to Clean Data](https://github.com/RebeccaLewis-DS/dsc540-midtermproject.git)  <br/> Data Cleansing, Python	|	
 | <img src="/assets/images/DSC500_thumbnail.png" width="300"> | [The Impact of Data Science on Animal Shelter Outcomes](https://github.com/RebeccaLewis-DS/dsc500-finalproject.git) <br/> Research, writing, presentation abilities | 
 | <img src="/assets/images/DSC510_thumbnail.jpg" width="300"> | [Interactive Weather Forecasting Python Program](https://github.com/RebeccaLewis-DS/dsc510-finalproject.git)  <br/> Python Object-oriented, API requests	|
 | <img src="/assets/images/DSC530_thumbnail.png" width="300"> | [The Impact of Leader Compensation and Administrative Overhead on Fundraising Efficiency](https://github.com/RebeccaLewis-DS/dsc530-finalproject.git)  <br/> Exploratory Data Analysis	|
